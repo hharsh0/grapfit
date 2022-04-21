@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+body{
+  background-color: rgb(17 24 39);
+}
+
+.pg-2-chart-2{
+  flex-direction: row-reverse;
+}
+
+.apple{
+  text-align: right;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
